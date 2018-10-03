@@ -1,1 +1,1 @@
-# jsjigs
+# node-jigs
